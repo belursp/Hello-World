@@ -1,0 +1,3 @@
+#!/bin/sh
+val=`expr 2 + 4`
+echo "Total Value : $val"
